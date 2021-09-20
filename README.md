@@ -2,7 +2,7 @@
 Logmein Hamachi Linux profile switcher by commandline
 
 # 1. What is HamaSwitch
-HamaSwitsh is a bash (/bin/sh) script for easy switch between diferrent profiles of Logmein Hamachi (www.vpn.net)
+HamaSwitch is a bash (/bin/sh) script for easy switch between diferrent profiles of Logmein Hamachi (www.vpn.net)
 
 # 2. Preparing Logmein Hamachi profiles folders
 
