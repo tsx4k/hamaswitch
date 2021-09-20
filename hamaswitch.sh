@@ -1,4 +1,7 @@
 #!/bin/sh
+# author: tsx4k
+# site: https://github.com/tsx4k/hamaswitch
+
 
 ROOT=$(id -u)
 
